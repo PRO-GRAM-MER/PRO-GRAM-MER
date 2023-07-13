@@ -2,7 +2,7 @@
 
 🌱 I’m learning Reactjs and Redux.
 
-🔭 I’m proficient in HTML5, CSS3, SASS, JavaScript, React, TypeScript, and Bootstrap.
+🔭 I’m proficient in HTML5, CSS3, SASS, JavaScript, React, Angular, TypeScript, Bootstrap, Angular material and Material UI.
 
 💞️ I’m looking to collaborate on any projects that i might be helpful in.
 
