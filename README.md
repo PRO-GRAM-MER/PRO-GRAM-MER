@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Ankit+Baage+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Ankit+Baage+%F0%9F%91%8B;Full+Stack+Developer;
+  React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/ankitbaage3@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ankitbaage3@gmail.com)
 &nbsp;
