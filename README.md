@@ -25,29 +25,38 @@ I'm a **Full Stack Developer** who enjoys building real-world products — from 
 
 ## Tech Stack
 
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat&logo=fastapi&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,7 +66,7 @@ I'm a **Full Stack Developer** who enjoys building real-world products — from 
 |---------|-------------|-------|------|
 | [**TaskFlow**](https://github.com/PRO-GRAM-MER/taskflow) | Full-stack task & team management with role-based access, attendance, leaves, and a points system | Next.js · Prisma · PostgreSQL · NextAuth | [↗ Live](https://taskflow-tau-eosin.vercel.app) |
 | [**My Journal**](https://github.com/PRO-GRAM-MER/my-journal) | Personal journaling app with authentication, rich journal entries, and image uploads | Next.js · Prisma · PostgreSQL · Cloudinary | [↗ Live](https://my-journal-woad.vercel.app) |
-| [**MobiGarage Admin**](https://github.com/PRO-GRAM-MER/mobigarage-admin) | Enterprise-grade admin panel for inventory management, bulk deals, attendance tracking, and user roles | React · Vite · React Query · CSS Modules | [↗ Live](https://mobigarage-admin.vercel.app) |
+| [**MobiGarage Admin**](https://github.com/PRO-GRAM-MER/mobigarage-admin) | Enterprise-grade admin panel for inventory, bulk deals, attendance tracking, and user roles | React · Vite · React Query · CSS Modules | [↗ Live](https://mobigarage-admin.vercel.app) |
 | [**The Met Landing Page**](https://github.com/PRO-GRAM-MER/The-met-landing_page) | Responsive landing page for The Metropolitan Museum of Art | HTML · SCSS | — |
 
 ---
