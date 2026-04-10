@@ -5,7 +5,7 @@
 <p>
   <a href="mailto:ankitbaage3@gmail.com"><img src="https://img.shields.io/badge/ankitbaage3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/ankit-baage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ankit-baage-278946289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="https://taskflow-tau-eosin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
