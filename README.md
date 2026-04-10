@@ -124,9 +124,9 @@ Full Stack Developer focused on shipping **production-ready web applications** â
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PRO-GRAM-MER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRO-GRAM-MER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-GRAM-MER&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRO-GRAM-MER&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="165" />
 
 <br/>
 
